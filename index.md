@@ -1517,6 +1517,272 @@
 </html>
 
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initia
+
+
+    <title>eFashion - Galería</title>
+
+
+    <link rel="stylesheet" href="estilos.css">
+    <style>
+        .galeria .foto img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+
+
+<body>
+
+
+   
+    <header>
+
+
+        <div class="logo">
+            eFashion
+        </div>
+
+
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="galeria.html">Galería</a>
+            <a href="index.html#productos">Productos</a>
+            <a href="index.html#reservas">Reservas</a>
+            <a href="index.html#reseñas">Reseñas</a>
+            <a href="index.html#contacto">Contacto</a>
+        </nav>
+
+
+    </header>
+
+
+
+
+    
+    <section class="titulo-galeria">
+
+
+        <h1>Galería eFashion</h1>
+
+
+        <p>
+            Conoce algunos de nuestros productos y encuentra
+            el estilo que más te guste.
+        </p>
+
+
+    </section>
+
+
+
+
+    
+    <section class="galeria">
+
+
+        <div class="foto">
+
+
+            <img src="https://images.unsplash.com/photo-15215
+                 alt="Camiseta">
+
+
+            <h3>Camisetas</h3>
+
+
+            <p>Diseños modernos y cómodos.</p>
+
+
+        </div>
+
+
+
+
+        <div class="foto">
+
+
+            <img src="https://images.unsplash.com/photo-15422
+                 alt="Jeans">
+
+
+            <h3>Jeans</h3>
+
+
+            <p>Estilo para cualquier ocasión.</p>
+
+
+        </div>
+
+
+
+
+        <div class="foto">
+
+
+            <img src="https://images.unsplash.com/photo-15233
+                 alt="Ropa">
+
+
+            <h3>Moda</h3>
+
+
+            <p>Las últimas tendencias.</p>
+
+
+        </div>
+
+
+
+
+        <div class="foto">
+
+
+            <img src="https://images.unsplash.com/photo-15530
+                 alt="Bolso">
+
+
+            <h3>Bolsos</h3>
+
+
+            <p>Accesorios para complementar tu look.</p>
+
+
+        </div>
+
+
+
+
+        <div class="foto">
+
+
+            <img src="https://images.unsplash.com/photo-15213
+                 alt="Gorra">
+
+
+            <h3>Gorras</h3>
+
+
+            <p>Accesorios modernos y casuales.</p>
+
+
+        </div>
+
+
+
+
+        <div class="foto">.md
+
+
+            <img src="https://images.unsplash.com/photo-15480
+                 alt="Accesorios">
+
+
+            <h3>Accesorios</h3>
+
+
+            <p>Detalles que completan tu estilo.</p>
+
+
+        </div>
+
+
+
+
+        <div class="foto">
+
+
+            <img src="https://images.unsplash.com/photo-14904
+                 alt="Moda femenina">
+
+
+            <h3>Moda femenina</h3>
+
+
+            <p>Prendas para diferentes estilos.</p>
+
+
+        </div>
+
+
+
+
+        <div class="foto">
+
+
+            <img src="https://images.unsplash.com/photo-15158
+                 alt="Outfit">
+
+
+            <h3>Outfits</h3>
+
+
+            <p>Combina nuestras prendas y crea tu estilo.</p>
+
+
+        </div>
+
+
+    </section>
+
+
+
+
+    <!-- LLAMADO A LA ACCIÓN -->
+    <section class="galeria-final">
+
+
+        <h2>¿Te gustó algún producto?</h2>
+
+
+        <p>
+            Reserva tu pedido y recibe tus productos
+            directamente en tu domicilio.
+        </p>
+
+
+        <a href="reserva.html" class="boton">
+            Hacer una reserva
+        </a>
+
+
+    </section>
+
+
+
+
+    <!-- PIE DE PÁGINA -->
+    <footer>
+
+
+        <p>
+            © 2026 eFashion - Ropa y Accesorios
+        </p>
+
+
+        <p>
+            Todos los derechos reservados.
+        </p>
+
+
+    </footer>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
 
 
 
