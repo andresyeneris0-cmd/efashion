@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initi
-    <title>eFashion - Ropa y Accesorios</title>
-    <link rel="stylesheet" href="estilos.css">
-</head>
 
 
-<body>
 
 
   
@@ -220,7 +211,7 @@
 
     <link rel="stylesheet" href="estilos.css">
     <style>
-        .galeria .foto img {
+        .galeria .foto img {.md
             width: 150px;
             height: 150px;
             object-fit: cover;
